@@ -14,7 +14,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     agenix = {
-      url = "github:ryantm/agenix";
+      url = "github:NiXium-org/agenix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
